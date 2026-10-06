@@ -1,11 +1,11 @@
-# CNWeb_NguyenPhung_20235402
+# CNWeb_Phạm_Ngọc_Tuyên_20235455
 
 Website bài tập môn Công nghệ Web.
 
 ## Student
 
-- Name: Nguyễn Trần Gia Phụng
-- Student ID: 20235402
+- Name: Phạm Ngọc Tuyên
+- Student ID: 20235455
 
 ## Technologies
 
@@ -16,14 +16,4 @@ Website bài tập môn Công nghệ Web.
 - GitHub
 - GitHub Pages
 
-## Repository
 
-https://github.com/nguyenphung25/CNWeb_NguyenPhung_20235402
-
-## Website
-
-https://nguyenphung25.github.io/CNWeb_NguyenPhung_20235402/
-
-## Run locally
-
-Open `index.html` in the browser or use VS Code Live Server.
